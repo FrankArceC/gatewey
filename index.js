@@ -12,9 +12,9 @@ const API_USER = 'admin';
 const API_PASSWORD = 'passwordSeguro123';
 
 // URLs de los Microservicios (Ajusta estos valores según tus servicios reales)
-const URL_SERVICE_USERS = 'https://apo-registro.paas.oracle-mty1.juanlopez.dev';
-const URL_SERVICE_CODES = 'https://apo-registro.paas.oracle-mty1.juanlopez.dev/';
-const URL_SERVICE_CONFIRM = 'https://apo-registro.paas.oracle-mty1.juanlopez.dev/';
+const URL_SERVICE_USERS = 'registro-lovat.vercel.app/';
+const URL_SERVICE_CODES = 'codigo-jade.vercel.app/';
+const URL_SERVICE_CONFIRM = 'confirmar-five.vercel.app/';
 // --------------------------------------
 
 // 1. Seguridad Básica Global
